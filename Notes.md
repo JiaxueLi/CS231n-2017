@@ -1,2 +1,2 @@
-***modularized implementation:forward / backward API***  
-*graph (or net) object*
+- ***modularized implementation:forward / backward API***  
+  *graph (or net) object*
