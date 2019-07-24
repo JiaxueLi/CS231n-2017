@@ -6,5 +6,4 @@ class MultiplyGate(object):
   def backward(dz):
     # dx = ... # todo
     # dy = ... # todo
-    
     return [dx, dy]
